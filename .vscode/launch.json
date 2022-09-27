@@ -1,0 +1,43 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Launch FormatadorCepExemplo",
+			"request": "launch",
+			"mainClass": "FormatadorCepExemplo",
+			"projectName": "use_cases_web_team_53442d49"
+		},
+		{
+			"type": "java",
+			"name": "Launch AboutMeTryCatch",
+			"request": "launch",
+			"mainClass": "AboutMeTryCatch",
+			"projectName": "use_cases_web_team_53442d49"
+		},
+		{
+			"type": "java",
+			"name": "Launch AboutMe",
+			"request": "launch",
+			"mainClass": "AboutMe",
+			"projectName": "use_cases_web_team_53442d49"
+		},
+		{
+			"type": "java",
+			"name": "Launch App",
+			"request": "launch",
+			"mainClass": "App",
+			"projectName": "use_cases_web_team_53442d49"
+		},
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "TOTVS Language Debug",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "../totvs/bin/smartclient/smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true
+		}
+	]
+}
