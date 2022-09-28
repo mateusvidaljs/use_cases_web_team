@@ -36,7 +36,7 @@ Casos de Uso de estudos do time
 <p>:fire: Realizando Deploy na Nuvem de um conjunto de API's Desenvolvidas em Spring Boot
 
 
-## Itrodução (CF)
+## Introdução (CF)
 <p>Spring Web
 <p>Spring Data JPA
 <p>Lombok
