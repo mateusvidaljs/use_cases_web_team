@@ -2,7 +2,7 @@
 #include "IUserRepository.tlpp"
 
 Class DatabaseUserRepository implements IUserRepository
-    Method index()
+    public method index()
 EndClass
 
 method index() class DatabaseUserRepository
