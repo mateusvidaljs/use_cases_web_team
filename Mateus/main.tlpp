@@ -1,0 +1,10 @@
+#include "protheus.ch"
+#include "IUserRepository.tlpp"
+
+Class DatabaseUserRepository implements IUserRepository
+    Method index()
+EndClass
+
+method index() class DatabaseUserRepository
+    /* implementação com o DBAccess */
+return self
