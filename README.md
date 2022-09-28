@@ -37,7 +37,7 @@ Casos de Uso de estudos do time
 
 
 ## Introdução (CF)
-<p>Spring Web
-<p>Spring Data JPA
-<p>Lombok
-<p>H2 Database
+<p>:white_check_mark:Spring Web
+<p>:white_check_mark:Spring Data JPA
+<p>:white_check_mark:Lombok
+<p>:white_check_mark:H2 Database
