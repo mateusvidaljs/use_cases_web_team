@@ -1,5 +1,5 @@
 #include "protheus.ch"
 
 Interface IUserRepository
-    Method index()
+    method index() /* busca todos os usuários da base */
 EndInterface
