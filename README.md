@@ -3,6 +3,12 @@ Casos de Uso de estudos do time
 
 
 ## Tallita Nascimento - Controle de Fluxo (CF) Java
+### Introdução (CF)
+<p>:white_check_mark:Spring Web
+<p>:white_check_mark:Spring Data JPA
+<p>:white_check_mark:Lombok
+<p>:white_check_mark:H2 Database<br>
+
 ## Tallita Nascimento - Carrinho de Compras (CC) Java
 
 ### Dominando Linguagem de Programação em java (CF)
@@ -35,9 +41,3 @@ Casos de Uso de estudos do time
 <p>:fire: Explorando Padrões de Projetos na Prática com Java
 <p>:fire: Realizando Deploy na Nuvem de um conjunto de API's Desenvolvidas em Spring Boot
 
-
-## Introdução (CF)
-<p>:white_check_mark:Spring Web
-<p>:white_check_mark:Spring Data JPA
-<p>:white_check_mark:Lombok
-<p>:white_check_mark:H2 Database
