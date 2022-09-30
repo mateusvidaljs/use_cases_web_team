@@ -18,6 +18,3 @@ INSERT INTO produto (id, disponivel, nome, valor_unitario, restaurante_id) VALUE
 
 INSERT INTO sacola (id, fechada, forma_pagamento, valor_total, cliente_id) VALUES
 (1l, 'false', '1',  100.0, 2l);
-
---INSERT INTO item (id, sacola_id) VALUES
---(1l, 1l);

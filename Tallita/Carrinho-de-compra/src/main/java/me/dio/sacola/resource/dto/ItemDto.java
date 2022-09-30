@@ -1,4 +1,4 @@
-package me.dio.sacola.model;
+package me.dio.sacola.resource.dto;
 
 import javax.persistence.Embeddable;
 
@@ -13,7 +13,8 @@ import lombok.NoArgsConstructor;
 @Data
 @Embeddable
 
-public class Endereco {
-  private String cep;
-  private String complemento;
+public class ItemDto {
+  private Long produtoId;
+  private int quantidade;
+  private Long idSacola;
 }
