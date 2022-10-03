@@ -1,18 +1,30 @@
-## Getting Started
+# Sacola API
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sacola API para Servir uma Aplicação com Domínio de Delivery
 
-## Folder Structure
+## Status do Projeto
+Sacola API 💻 Finalizada com Sucesso...
 
-The workspace contains two folders by default, where:
+## Features
+Incluir itens na sacola
+Visualizar sacola
+Fechar sacola
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Ferramentas Utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Ferramenta |	Versão
+-----------|----------
+Git	| 2.**
+Gradle |	7.**
+Postman	| 9.**
+## Tecnologias Utilizadas
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Dependência	| Versão
+------------|------------
+Spring initialzr |	https://start.spring.io/
+Spring-boot-starter-web |	2.7.4
+Spring-boot-starter-data-jpa |	2.7.4
+Lombok |	1.18.24
+Springfox-boot-starter |	3.0.0
+H2 |	2.1.214
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
