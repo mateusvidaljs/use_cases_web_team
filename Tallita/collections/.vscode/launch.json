@@ -1,0 +1,57 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Launch OrdenacaoList",
+			"request": "launch",
+			"mainClass": "list.OrdenacaoList",
+			"projectName": "collections_9e62f769"
+		},
+		{
+			"type": "java",
+			"name": "Launch ExemploList",
+			"request": "launch",
+			"mainClass": "list.ExemploList",
+			"projectName": "collections_9e62f769"
+		},
+		{
+			"type": "java",
+			"name": "Launch ExercicioOne",
+			"request": "launch",
+			"mainClass": "list.ExercicioOne",
+			"projectName": "collections_9f1e6669"
+		},
+		{
+			"type": "java",
+			"name": "Launch OrdenacaoList",
+			"request": "launch",
+			"mainClass": "list.OrdenacaoList",
+			"projectName": "collections_9f1e6669"
+		},
+		{
+			"type": "java",
+			"name": "Launch ExemploList",
+			"request": "launch",
+			"mainClass": "list.ExemploList",
+			"projectName": "collections_9f1e6669"
+		},
+		{
+			"type": "java",
+			"name": "Launch App",
+			"request": "launch",
+			"mainClass": "App",
+			"projectName": "collections_9f1e6669"
+		},
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "Depuração do idioma TOTVS",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "../totvs/bin/smartclient/smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true
+		}
+	]
+}
