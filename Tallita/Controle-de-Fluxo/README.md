@@ -1,12 +1,5 @@
 ## Tallita Nascimento - Controle de Fluxo (CF) Java
 
-### Introdução (CF)
-<p>:white_check_mark:Spring Web
-<p>:white_check_mark:Spring Data JPA
-<p>:white_check_mark:Lombok
-<p>:white_check_mark:H2 Database<br>
-
-
 ### Dominando Linguagem de Programação em java (CF)
 <p>:white_check_mark: Variaveis, Tipos de Dados e Operadores Matematicos 
 <p>:white_check_mark: Entendendo Metodos

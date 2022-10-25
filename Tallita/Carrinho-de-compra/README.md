@@ -28,3 +28,10 @@ Lombok |	1.18.24
 Springfox-boot-starter |	3.0.0
 H2 |	2.1.214
 
+
+### Introdução (CF)
+<p>:white_check_mark:Spring Web
+<p>:white_check_mark:Spring Data JPA
+<p>:white_check_mark:Lombok
+<p>:white_check_mark:H2 Database<br>
+
