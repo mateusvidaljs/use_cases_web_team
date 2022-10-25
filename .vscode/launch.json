@@ -3,6 +3,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "Launch Cargos",
+			"request": "launch",
+			"mainClass": "Cargos",
+			"projectName": "use_cases_web_team_53442d49"
+		},
+		{
+			"type": "java",
 			"name": "Launch FormatadorCepExemplo",
 			"request": "launch",
 			"mainClass": "FormatadorCepExemplo",
