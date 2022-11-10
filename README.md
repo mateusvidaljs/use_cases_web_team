@@ -7,3 +7,5 @@ Casos de Uso de estudos do time
 ### Tallita do Nacimento 
 <p>:computer: Java
 
+### Victor Manoel
+<p>:computer: Java
